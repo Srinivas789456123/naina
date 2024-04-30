@@ -1,0 +1,13 @@
+﻿md sinu
+md sinu/c1
+md sinu/c2
+md sinu/c3
+md sinu/c4
+echo "welcome TO gpt rcr" > sinu/c1/gpt.txt
+echo "welcome TO gpt rcr" > sinu/c2/gpt.txt
+echo "welcome TO gpt rcr" > sinu/c3/gpt.txt
+echo "welcome TO gpt rcr" > sinu/c4/gpt.txt
+type sinu/c1/gpt.txt
+type sinu/c2/gpt.txt
+type sinu/c3/gpt.txt
+type sinu/c4/gpt.txt
